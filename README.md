@@ -7,9 +7,9 @@
 ![stars](https://img.shields.io/github/stars/YossefAbdelMohsen?style=social)
 
 <h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{YossefMohamed}/count.svg" alt="YossefMohamed :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{YossefAbdelMohsen}/count.svg" alt="YossefAbdelMohsen :: Visitor's Count" /></p>
 <br/>
-<img align="right" height="220px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="YossefMohamed" />
+<img align="right" height="220px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="YossefAbdelMohsen" />
 
 - 🔭 I’m currently working on [Airbnb](https://github.com/YossefAbdelMohsen/airbnb-api)
 - 🌱 I’m currently learning **REACT NATIVE**
